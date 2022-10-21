@@ -1,6 +1,6 @@
 # Wa-Bot-11
 
-#### _1. Click_ [SCAN](https://dark-lover-opz-xd.herokuapp.com/) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App._
+#### _1. Click_ [SCAN](https://spark-shadow-xd.herokuapp.com/) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App._
 
 #### _2. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account._
 
